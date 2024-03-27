@@ -1,0 +1,5 @@
+- [ ] Gerar um email baseado na sintaxe: "firstname.lastname@department.company.com"
+- [ ] Determinar o departamento (vendas, desenvolvimento, contabilidade), se não fica em branco
+- [ ] Gerar uma senha (String)
+- [ ] Possuir métodos para mudar a senha, setar a capacidade da caixa de entrada, e definir um endereço alternativo
+- [ ] Possuir um método para mostrar o nome, email, e a capacidade do email
